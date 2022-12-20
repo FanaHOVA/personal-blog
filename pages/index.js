@@ -6,7 +6,7 @@ export default function Home(props) {
   return (
     <>
       <Header />
-      <div className="max-w-3xl px-8 mx-auto py-4">
+      <div className="max-w-5xl px-8 mx-auto py-4">
         <ul className="space-y-3">
           {posts.posts.map((p) => (
             <li key={p.slug} className="flex items-center space-x-3">

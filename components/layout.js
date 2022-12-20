@@ -8,15 +8,14 @@ const components = {};
 export default function Blog(props) {
   const { meta, route, ...rest } = props;
 
-  console.log(props);
-
   const sharedHead = (
     <Head>
+      <title>{meta.title}</title>
       <meta property="og:title" content={meta.title} />
-      <meta property="og:site_name" content="Jared Palmer's blog" />
+      <meta property="og:site_name" content="Alessio Fanelli's blog" />
       <meta property="og:description" content={meta.description} />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="@jaredpalmer" />
+      <meta name="twitter:site" content="@fanahova" />
       <meta property="og:image" content={meta.og} />
     </Head>
   );
@@ -28,6 +27,12 @@ export default function Blog(props) {
           {sharedHead}
           <Header />
           <div className="prose lg:prose-lg mx-auto px-4 py-8">
+            <h1>
+              {meta.title}
+              <br />
+              <span class='text-sm font-normal italic'>Posted on {new Date(Date.parse(meta.date)).toLocaleDateString("en-US")}</span>
+            </h1>
+            
             <MDXProvider components={components}>{children}</MDXProvider>
           </div>
         </>

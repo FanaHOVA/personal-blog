@@ -1,10 +1,6 @@
 ---
 title: Why machine learning falls short in early stage venture capital
 date: 2019-08-27T04:00:00.000Z
-thumb_img_path: /images/0_fjl1uavpko5irgbp.png
-excerpt: Machine learning in early stage venture capital doesn’t work as well as
-  you might think.
-template: post
 ---
 The advent of machine learning has been one of the major catalysts for innovation in this decade, powering products like Alexa and Netflix’s recommendation system. At a high level, the goal of machine learning is to use historical data to train models that will help inform future decisions through prediction. In order for predictions to have a high degree of accuracy, the training set for the models needs to be both 1) large enough and 2) varied enough. Luckily for machine learning engineers around the world, we produce a quintillion (10¹⁸) bytes of data every day, giving them plenty to work with.
 

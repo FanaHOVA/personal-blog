@@ -1,13 +1,6 @@
 ---
 title: Testing PaperTrail versions in RSpec using ActiveSupport TimeHelpers
 date: 2018-07-10T20:06:56.726Z
-thumb_img_path: /images/screen_shot_2020-03-25_at_10.22.44_am.png
-thumb_img_alt: Code example
-content_img_path: ""
-content_img_alt: ""
-excerpt: Using ActiveSupport::Testing::TimeHelpers' `travel_to` to test
-  PaperTrail behavior in a Rails application using RSpec.
-template: post
 ---
 I guess the screenshot header has the whole answer! Just wanted to put this snippet here since it came handy a couple times already; easy way to travel back in time using `travel_to` helpers to generate different versions of an object.
 

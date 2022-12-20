@@ -1,14 +1,6 @@
 ---
 title: The commoditization of business intelligence tools, the rise of 'embedded intelligence'
 date: 2020-12-15T18:37:09.218Z
-thumb_img_path: https://images.ctfassets.net/clfay1lxzjey/1G1rae6Y5jamT0VlPiNXwJ/d0aed4f4ef4bb40b1b356c15f0ba77ea/luke-chesser-JKUTrJ4vK00-unsplash.jpg
-thumb_img_alt: Analytics dashboard
-content_img_path: https://images.ctfassets.net/clfay1lxzjey/1G1rae6Y5jamT0VlPiNXwJ/d0aed4f4ef4bb40b1b356c15f0ba77ea/luke-chesser-JKUTrJ4vK00-unsplash.jpg
-content_img_alt: ""
-excerpt: A brief history of business intelligence, and the trend of "embedded
-  intelligence" that has been gaining popularity
-canonical_url: ""
-template: post
 ---
 
 *[Originally posted on the 645 Ventures blog](https://645ventures.com/the-commoditization-of-business-intelligence-tools-the-rise-of-embedded)*

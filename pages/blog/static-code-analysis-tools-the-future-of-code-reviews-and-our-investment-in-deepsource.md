@@ -1,8 +1,6 @@
 ---
 title: Static code analysis tools, the future of code reviews, and our investment in DeepSource
 date: 2020-07-14T17:42:49.502Z
-thumb_img_path: /images/85a4bcf1-bf7b-4168-abd0-c4c45d182752.avif
-template: post
 ---
 
 A key investment theme at 645 Ventures is the "[Engineering Value Chain Revolution](https://645ventures.com/engineering-value-chain-revolution)", which argues that every company is turning into a software company, and that the tooling used by developers will change drastically over the next few years. One of the core parts of software development that is in need of change is code reviews. As the size of engineering teams grows within organizations, there’s an increased need for tools that allow individual contributors to move fast, while at the same time maintaining code quality and maintainability.

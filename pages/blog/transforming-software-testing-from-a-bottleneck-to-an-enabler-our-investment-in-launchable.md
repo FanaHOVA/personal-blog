@@ -1,10 +1,6 @@
 ---
 title: 'Transforming software testing from a bottleneck to an enabler: our investment in Launchable'
 date: 2021-07-27T21:40:41.675Z
-thumb_img_path: /images/c81f0422-993f-4fc7-9096-e6ad3a03ddcb.avif
-excerpt: How the software testing market evolved, and how Launchable can help it
-  become an enabler rather than a bottleneck.
-template: post
 ---
 *Originally posted on the 645 Ventures blog.*
 

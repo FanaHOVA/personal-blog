@@ -14,7 +14,9 @@ export default function Home(props) {
                 {p.date}
               </span>
               <Link href={p.slug}>
-                <a className="block font-bold">{p.title}</a>
+                <a className="block font-bold transition hover:text-red-500">
+                  {p.title}
+                </a>
               </Link>
             </li>
           ))}

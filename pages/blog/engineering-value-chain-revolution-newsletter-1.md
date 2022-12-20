@@ -1,11 +1,6 @@
 ---
 title: Engineering Value Chain Revolution Newsletter
 date: 2021-08-12T21:28:24.378Z
-thumb_img_path: /images/screen-shot-2022-04-22-at-2.30.14-pm.png
-excerpt: The Evolution of Open Source Licensing, Business Models, and the
-  "Monetization Helix" - Alessio Fanelli, 645 Ventures
-canonical_url: ""
-template: post
 ---
 
 Every company is going to be a software company, but while a century passed between the first and second industrial revolutions, the way software is built and maintained changes much faster. The landscape for developer tools, infrastructure software, and security is ever-changing.

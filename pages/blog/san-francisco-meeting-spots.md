@@ -1,9 +1,6 @@
 ---
 title: San Francisco meeting spots
 date: 2022-03-28T20:23:07.710Z
-thumb_img_path: /images/san-francisco-main-xlarge.webp
-excerpt: Convenient spot for meetings in San Francisco
-template: post
 ---
 Collecting good spots for in-person meeting in San Francisco:
 

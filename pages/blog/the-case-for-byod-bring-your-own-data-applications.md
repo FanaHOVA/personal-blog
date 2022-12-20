@@ -1,11 +1,6 @@
 ---
 title: The case for BYOD (Bring-your-own-data) applications
 date: 2022-04-22T21:23:35.377Z
-thumb_img_path: /images/markus-winkler-cv9-hogoaok-unsplash.jpg
-excerpt: The advances in data engineering tools undermine create a brand new
-  opportunity for products that will create value not by holding your data
-  hostage, but by allowing you to execute and automate actions on top of it.
-template: post
 ---
 *Originally published on the 645 Ventures blog.*
 

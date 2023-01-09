@@ -21,6 +21,8 @@ export default function Blog(props) {
   );
 
   if (route.startsWith('/blog')) {
+    console.log(components)
+
     return function Layout({ children }) {
       return (
         <>
@@ -30,7 +32,7 @@ export default function Blog(props) {
             <h1>
               {meta.title}
               <br />
-              <span class='text-sm font-normal italic'>Posted on {new Date(Date.parse(meta.date)).toLocaleDateString("en-US")}</span>
+              <span className='text-sm font-normal italic'>Posted on {new Date(Date.parse(meta.date)).toLocaleDateString("en-US")}</span>
             </h1>
             
             <MDXProvider components={components}>{children}</MDXProvider>

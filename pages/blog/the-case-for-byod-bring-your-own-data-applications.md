@@ -1,6 +1,6 @@
 ---
 title: The case for BYOD (Bring-your-own-data) applications
-date: 2022-04-22T21:23:35.377Z
+date: 2022-02-08T21:23:35.377Z
 ---
 *Originally published on the 645 Ventures blog.*
 

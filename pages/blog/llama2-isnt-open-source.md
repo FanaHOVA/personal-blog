@@ -25,9 +25,11 @@ With the rise of open models like Dolly, MPT, LLaMA, etc., we are seeing a simil
 
 For a model to be truly open source and retrainable from scratch, the creators would need to share all their training code, pre-training dataset, fine-tuning preferences, RLHF examples, etc. The problem is the cost of these training runs: even if someone were to release everything, it’s cost-prohibitive to train models from scratch for most developers and companies, so having access to the final weights is preferred anyway. 
 
+![Open Models](/images/open-models.png)
+
 In the LLMs space, the term "open source" is used interchangeably to define a wide range of openness levels:
 
-- **Open source:** these are models like RedPajama and MPT-7B, they have open weights available for commercial use (under Apache 2.0 license), but can also be re-trained from scratch since the dataset is open source. You can find a guide on how to train your own RedPajama model [here](https://github.com/Lightning-AI/lit-llama/blob/main/howto/train_redpajama.md). 
+- **Open models:** these are models like RedPajama and MPT-7B, they have open weights available for commercial use (under Apache 2.0 license), but can also be re-trained from scratch since the dataset is open source. You can find a guide on how to train your own RedPajama model [here](https://github.com/Lightning-AI/lit-llama/blob/main/howto/train_redpajama.md). 
 - **Open weights:** StableLM is an open model trained by StabilityAI. While the weights are available and are licensed under Apache 2.0, the dataset used to train isn’t available to the public. From their README: “StableLM-Base-Alpha is pre-trained on a new experimental dataset built atop The Pile and is threes times larger at approximately 1.5T tokens.”
 - **Restricted weights:** this is LLaMA2. The pre-training dataset is also unavailable, and while the weights are supposed to be open for commercial use, they have specific limitations that we mentioned above.     
 - **Contaminated weights:** models like Dolly 1.0 and LLaMA1 are part of this category. The weights are released openly, but the dataset used to train them doesn’t allow for commercial use, making it technically open but practically unusable. 

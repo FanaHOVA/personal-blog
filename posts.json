@@ -1,6 +1,7 @@
 {
   "posts": [
     { "slug": "/blog/langchain-hub-ui-release", "date": "Jan 24 2023", "title": "Launching an open source LangChainHub UI" },
+    { "slug": "/blog/llama2-isnt-open-source", "date": "July 20 2023", "title": "LLaMA2 isn't \"Open Source\" - and why it doesn't matter" },
     { "slug": "/blog/llms-for-developers", "date": "Jan 17 2023", "title": "LLMs for Developers" },
     { "slug": "/blog/engineering-value-chain-revolution-newsletter-1", "date": "Aug 08 2021", "title": "Engineering Value Chain Revolution Newsletter" },
     { "slug": "/blog/history-of-open-source-licensing", "date": "Feb 02 2021", "title": "History of Open Source Licensing" },

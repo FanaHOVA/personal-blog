@@ -1,4 +1,6 @@
 import Link from 'next/link';
+import { Analytics } from '@vercel/analytics/react';
+
 export function Header() {
   return (
     <div className="flex items-center justify-between max-w-3xl px-8 mx-auto py-4">
@@ -15,6 +17,7 @@ export function Header() {
           Follow Me
         </a>
       </div>
+      <Analytics />
     </div>
   );
 }

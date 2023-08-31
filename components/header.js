@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { Analytics } from '@vercel/analytics/react';
 
 export function Header() {
   return (
@@ -17,7 +16,6 @@ export function Header() {
           Follow Me
         </a>
       </div>
-      <Analytics />
     </div>
   );
 }

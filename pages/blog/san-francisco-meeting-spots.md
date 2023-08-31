@@ -4,6 +4,22 @@ date: 2022-03-28T20:23:07.710Z
 ---
 Collecting good spots for in-person meeting in San Francisco:
 
+**Mission:**
+
+* ☕ Dolores Park Cafe for coffee, enough seats there or walk the park
+* ☕ La Reyna Bakery on 24th St and Shotwell for pastries and coffee
+* ☕ Bernie's on 24th and Noe for pastries and coffee
+* ☕ Noe Cafe on Sanchez and 26th for coffee (or a Spritz...)
+* ☕ Ritual on Valencia
+* ☕ / 🍽️ Atlas Cafe on 20th St
+* 🍽️ Souvla on Valencia
+* 🍽️ Saucy Asian on 17th St
+* 🍽️ Mesopotamia Kitchen on 24th (Noe side)
+* 🍽️ Taqueria Vallarta on 24th and Harrison
+* 🍽️ Beretta on Valencia and 23rd
+* 🍺 ABV on 16th St
+* 🍺 Mothership on Mission (after Cesar Chavez)
+
 **East Cut / Moscone Center / Ferry Building:**
 
 * ☕ Salesforce Park, meet at Philz at 425 Mission St for coffee then take elevators up for walking or sitting
@@ -72,13 +88,3 @@ Collecting good spots for in-person meeting in San Francisco:
 
 * ☕ Mochill Mochi Donuts
 * 🍽️ Marufuku Ramen
-
-**Mission:**
-
-* ☕ Dolores Park Cafe for coffee, enough seats there or walk the park
-* ☕ La Reyna Bakery on 24th St and Shotwell for pastries and coffee
-* ☕ Bernie's on 24th and Noe for pastries and coffee
-* ☕ Noe Cafe on Sanchez and 26th for coffee (or a Spritz...)
-* 🍽️ Souvla on Valencia for lunch
-* 🍽️ Taqueria Vallarta on 24th and Harrison for lunch
-* 🍺 Evil Eye on Mission & 25th for drinks

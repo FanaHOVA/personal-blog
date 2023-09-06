@@ -25,3 +25,5 @@ For video:
 - [Elgato Key Light Air](https://amzn.to/3Z7sifd): this is my main light. I have two fill lights to my right to even out lightning.
 
 I haven't really invested in this outside of just having a Zoom setup, so if you're planning to do a lot of YouTube your mileage will likely vary!
+
+![Setup Photo](/images/Setup.jpg)

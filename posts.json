@@ -1,21 +1,94 @@
 {
   "posts": [
-    { "slug": "/blog/langchain-hub-ui-release", "date": "Jan 24 2023", "title": "Launching an open source LangChainHub UI" },
-    { "slug": "/blog/llama2-isnt-open-source", "date": "July 20 2023", "title": "LLaMA2 isn't \"Open Source\" - and why it doesn't matter" },
-    { "slug": "/blog/smol-podcaster", "date": "August 9 2023", "title": "Open sourcing smol-podcaster" },
-    { "slug": "/blog/llms-for-developers", "date": "Jan 17 2023", "title": "LLMs for Developers" },
-    { "slug": "/blog/engineering-value-chain-revolution-newsletter-1", "date": "Aug 08 2021", "title": "Engineering Value Chain Revolution Newsletter" },
-    { "slug": "/blog/history-of-open-source-licensing", "date": "Feb 02 2021", "title": "History of Open Source Licensing" },
-    { "slug": "/blog/how-can-we-help-oss-maintainers-of-stadium-projects", "date": "Sep 09 2020", "title": "How can we help OSS maintainers of \"Stadium\" projects?" },
-    { "slug": "/blog/investing-in-drifting-in-space", "date": "Mar 03 2022", "title": "Investing in Drifting in Space" },
-    { "slug": "/blog/linux-foundation-members-summit-talk-on-open-source-monetization", "date": "Nov 11 2021", "title": "Linux Foundation Members Summit Talk on Open Source Monetization" },
-    { "slug": "/blog/opensea-exporter", "date": "Sep 09 2021", "title": "OpenSea Exporter" },
-    { "slug": "/blog/san-francisco-meeting-spots", "date": "Mar 03 2022", "title": "San Francisco meeting spots" },
-    { "slug": "/blog/static-code-analysis-tools-the-future-of-code-reviews-and-our-investment-in-deepsource", "date": "Jul 07 2020", "title": "Static code analysis tools, the future of code reviews, and our investment in DeepSource" },
-    { "slug": "/blog/testing-papertrail-versions-in-rspec-using-activesupport-timehelpers", "date": "Jul 07 2018", "title": "Testing PaperTrail versions in RSpec using ActiveSupport TimeHelpers" },
-    { "slug": "/blog/the-case-for-byod-bring-your-own-data-applications", "date": "Feb 08 2022", "title": "The case for BYOD (Bring-your-own-data) applications" },
-    { "slug": "/blog/the-commoditization-of-business-intelligence-tools-the-rise-of-embedded-intelligence", "date": "Dec 12 2020", "title": "The commoditization of business intelligence tools, the rise of 'embedded intelligence'" },
-    { "slug": "/blog/transforming-software-testing-from-a-bottleneck-to-an-enabler-our-investment-in-launchable", "date": "Jul 07 2021", "title": "Transforming software testing from a bottleneck to an enabler: our investment in Launchable" },
-    { "slug": "/blog/why-machine-learning-falls-short-in-early-stage-venture-capital", "date": "Aug 08 2019", "title": "Why machine learning falls short in early stage venture capital" }
+    {
+      "slug": "/blog/how-can-we-help-oss-maintainers-of-stadium-projects",
+      "date": "2020-09-09",
+      "title": "How can we help OSS maintainers of \"Stadium\" projects?"
+    },
+    {
+      "slug": "/blog/history-of-open-source-licensing",
+      "date": "2021-02-05",
+      "title": "History of Open Source Licensing"
+    },
+    {
+      "slug": "/blog/linux-foundation-members-summit-talk-on-open-source-monetization",
+      "date": "2021-11-04",
+      "title": "Linux Foundation Members Summit Talk on Open Source Monetization"
+    },
+    {
+      "slug": "/blog/llama2-isnt-open-source",
+      "date": "2023-07-20",
+      "title": "LLaMA2 isn't \\\"Open Source\\\" - and why it doesn't matter"
+    },
+    {
+      "slug": "/blog/san-francisco-meeting-spots",
+      "date": "2022-03-28",
+      "title": "San Francisco meeting spots"
+    },
+    {
+      "slug": "/blog/opensea-exporter",
+      "date": "2021-09-22",
+      "title": "OpenSea Exporter"
+    },
+    {
+      "slug": "/blog/why-machine-learning-falls-short-in-early-stage-venture-capital",
+      "date": "2019-08-27",
+      "title": "Why machine learning falls short in early stage venture capital"
+    },
+    {
+      "slug": "/blog/engineering-value-chain-revolution-newsletter-1",
+      "date": "2021-08-12",
+      "title": "Engineering Value Chain Revolution Newsletter"
+    },
+    {
+      "slug": "/blog/static-code-analysis-tools-the-future-of-code-reviews-and-our-investment-in-deepsource",
+      "date": "2020-07-14",
+      "title": "Static code analysis tools, the future of code reviews, and our investment in DeepSource"
+    },
+    {
+      "slug": "/blog/testing-papertrail-versions-in-rspec-using-activesupport-timehelpers",
+      "date": "2018-07-10",
+      "title": "Testing PaperTrail versions in RSpec using ActiveSupport TimeHelpers"
+    },
+    {
+      "slug": "/blog/the-case-for-byod-bring-your-own-data-applications",
+      "date": "2022-02-08",
+      "title": "The case for BYOD (Bring-your-own-data) applications"
+    },
+    {
+      "slug": "/blog/fixing-papertrail-tried-to-load-unspecified-class-activesupport-timewithzone",
+      "date": "2022-09-06",
+      "title": "Fixing Papertrail \"Tried to load unspecified class: ActiveSupport::TimeWithZone\""
+    },
+    {
+      "slug": "/blog/llms-for-developers",
+      "date": "2023-01-18",
+      "title": "LLMs for Developers"
+    },
+    {
+      "slug": "/blog/the-commoditization-of-business-intelligence-tools-the-rise-of-embedded-intelligence",
+      "date": "2020-12-15",
+      "title": "The commoditization of business intelligence tools, the rise of 'embedded intelligence"
+    },
+    {
+      "slug": "/blog/investing-in-drifting-in-space",
+      "date": "2022-03-29",
+      "title": "Investing in Drifting in Space"
+    },
+    {
+      "slug": "/blog/langchain-hub-ui-release",
+      "date": "2023-01-24",
+      "title": "Launching an open source LangChainHub UI"
+    },
+    {
+      "slug": "/blog/transforming-software-testing-from-a-bottleneck-to-an-enabler-our-investment-in-launchable",
+      "date": "2021-07-27",
+      "title": "Transforming software testing from a bottleneck to an enabler: our investment in Launchable"
+    },
+    {
+      "slug": "/blog/smol-podcaster",
+      "date": "2023-08-09",
+      "title": "Open sourcing smol-podcaster"
+    }
   ]
 }

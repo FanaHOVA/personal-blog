@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build"
+    "build": "next build",
+    "prebuild": "python generate_posts_json.py"
   },
   "dependencies": {
     "@mdx-js/react": "^1.6.22",

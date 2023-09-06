@@ -24,7 +24,7 @@ for markdown_file in markdown_files:
         date_match = date_pattern.search(content)
         
         if title_match and date_match:
-            title = title_match.group(1).replace('\"', '"').replace("\'", "'")
+            title = title_match.group(1).replace('\\\"', '"')
             date = date_match.group(1)
             slug = f"/blog/{markdown_file.replace('.mdx', '').replace('.md', '')}"
             posts_data.append({"slug": slug, "date": date, "title": title})

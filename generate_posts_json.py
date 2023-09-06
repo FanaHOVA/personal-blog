@@ -11,7 +11,7 @@ print(f"Total markdown files found: {len(markdown_files)}")  # Debugging step
 posts_data = []
 
 # Regex patterns for frontmatter title and date extraction
-title_pattern = re.compile(r'title: ["\']?(.*?)["\']?[\n$]')
+title_pattern = re.compile(r'title: ["\']?(.*?[^\\])["\']?[\n$]')
 date_pattern = re.compile(r"date: (\d{4}-\d{2}-\d{2}).*?")
 
 # Step 2: Extract the date and title from the markdown headers
@@ -24,7 +24,7 @@ for markdown_file in markdown_files:
         date_match = date_pattern.search(content)
         
         if title_match and date_match:
-            title = title_match.group(1)
+            title = title_match.group(1).replace('\"', '"').replace("\'", "'")
             date = date_match.group(1)
             slug = f"/blog/{markdown_file.replace('.mdx', '').replace('.md', '')}"
             posts_data.append({"slug": slug, "date": date, "title": title})

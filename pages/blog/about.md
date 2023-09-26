@@ -1,5 +1,7 @@
-I was born and raised in Rome, but now live in San Francisco. I'm a Partner at [Decibel](https://decibel.vc), where I invest in infrastructure software, security, and dev tools, as well as leading the development of our internal software platform. In my spare time, I play soccer, Magic The Gathering, along with some FPS games.  
+I was born and raised in Rome, but now live in San Francisco. I'm a Partner at [Decibel](https://decibel.vc), where I invest in infrastructure software, security, and dev tools, as well as leading the development of our internal software platform. My [GitHub](https://github.com/FanaHOVA) has a bunch of AI tools that I use to make myself more productive if you're interested in that. 
 
-I also run a newsletter focused called [The Engineering Value Chain Revolution](http://engineeringvaluechain.substack.com), which focuses on nascent developer tooling and software architectures. I post that on maker time, as Paul Graham would say, so no set schedule for it.
+I host the [Latent Space podcast](https://latent.space/) with my friend Swyx. We try to interview all the best folks working at the cutting edge of AI, ranging from researchers to startup founders. We've had >400,000 downloads in the first 7 months and some amazing guests like George Hotz, Chris Lattner, Tri Dao, and more. I also run a newsletter focused called [The Engineering Value Chain Revolution](http://engineeringvaluechain.substack.com), which focuses on nascent developer tooling and software architectures. I post that on maker time, as Paul Graham would say, so no set schedule for it. 
 
 Feel free to reach me at alessio\[at]decibel.vc or @[FanaHOVA](https://twitter.com/fanahova) on Twitter.
+
+In my spare time, I play soccer, Magic The Gathering, along with some FPS games. My gaming Discord id is @fanahovamtg if you'd rather connect over that :)

@@ -1,10 +1,20 @@
 import posts from '../posts.json';
 import Link from 'next/link';
 import { Header } from '../components/header';
+import Head from 'next/head';
 
 export default function Home(props) {
   return (
     <>
+      <Head>
+        <title>Alessio Fanelli's blog</title>
+        <meta property="og:title" content="Alessio Fanelli's blog" />
+        <meta property="og:site_name" content="Alessio Fanelli's blog" />
+        <meta property="og:description" content="Alessio's blog and personal website" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@fanahova" />
+      </Head>
+      
       <Header />
       <div className="max-w-4xl px-8 mx-auto py-4">
         <ul className="space-y-3">

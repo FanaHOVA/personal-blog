@@ -3,8 +3,6 @@ import Head from 'next/head';
 import { MDXProvider } from '@mdx-js/react';
 import { Header } from './header';
 
-const components = {};
-
 export default function Blog(props) {
   const { meta, route, ...rest } = props;
 
@@ -21,8 +19,6 @@ export default function Blog(props) {
   );
 
   if (route.startsWith('/blog')) {
-    console.log(components)
-
     return function Layout({ children }) {
       return (
         <>
@@ -34,8 +30,8 @@ export default function Blog(props) {
               <br />
               <span className='text-sm font-normal italic'>Posted on {new Date(Date.parse(meta.date)).toLocaleDateString("en-US")}</span>
             </h1>
-            
-            <MDXProvider components={components}>{children}</MDXProvider>
+            {console.log(children)}
+            <MDXProvider>{children}</MDXProvider>
           </div>
         </>
       );

@@ -56,11 +56,6 @@
       "title": "Testing PaperTrail versions in RSpec using ActiveSupport TimeHelpers"
     },
     {
-      "slug": "/blog/maximum-enterprise-utilization",
-      "date": "2024-01-03",
-      "title": "AI as an enabler for \"MEU\" - Maximum Enterprise Utilization  "
-    },
-    {
       "slug": "/blog/the-case-for-byod-bring-your-own-data-applications",
       "date": "2022-02-08",
       "title": "The case for BYOD (Bring-your-own-data) applications"
@@ -99,6 +94,11 @@
       "slug": "/blog/transforming-software-testing-from-a-bottleneck-to-an-enabler-our-investment-in-launchable",
       "date": "2021-07-27",
       "title": "Transforming software testing from a bottleneck to an enabler: our investment in Launchable"
+    },
+    {
+      "slug": "/blog/maximum-enterprise-utilization",
+      "date": "2024-01-03",
+      "title": "AI as an enabler for \"MEU\" - Maximum Enterprise Utilization  "
     },
     {
       "slug": "/blog/smol-podcaster",

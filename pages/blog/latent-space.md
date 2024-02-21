@@ -12,27 +12,27 @@ At our Final Frontiers event in 3 days, we'll be celebrating one year of Latent 
 
 I wanted to share some of the learnings I had while building this, since I get asked often.
 
-# **Be timely, or be timeless**
+## **Be timely, or be timeless**
 
 We only do three types of episodes on Latent Space: 
 
-* 101s (0 guests)
+* **101s** (0 guests)
     * 101s are driven by topic (datasets, benchmarking, etc) and are ~timeless; not the content itself obviously, but the window in which it’s relevant. People will be interested in Datasets 101 today as well as in 5 years from now. You just need to update the content accordingly.
-* Guest Interviews (1-2 guests)
+* **Guest Interviews** (1-2 guests)
     * Guest interviews are driven by trend. The timeliness for these is measured in weeks in order to get the biggest viral interest. Aligning interviews with releases is also a good idea. Many companies like Replit, SourceGraph, etc, have broken news on Latent Space which has helped them create buzz, and has helped us by being the reference point for the news. After the initial buzz passes, if you have done a good job on the episode, it will become the definitive guide on a specific topic. The person you interviewed will keep sharing it with people who want to learn more about them / their business.
-* Emergency and Recap pods (5+ guests) 
+* **Emergency and Recap pods** (5+ guests) 
     * Emergency pods are driven by news and their lifespan is ~1 day. This is why we use Twitter Spaces and not professional recording for them. These are also the episodes with the least amount of prep, so having more speakers helps with broadening perspectives. We haven't really done many of these recently, and ThursdAI has done a great job at covering news with their weekly, live format.
     * Recap pods are live event interviews with short, live in person conversations that give the listener an idea of what it’s like to be there in audio format. We covered OpenAI DevDay and NeurIPS this way.
 
-# **Cover the under-covered**
+## **Cover the under-covered**
 
-Our second episode ever was with[ Varun Mohan of Codeium](https://www.latent.space/p/varun-mohan); they had 10,000 users at the time. In Feb 2024 the company raised $65M and is now one of the largest cos in the AI dev tooling space with over 300,000 users.
+Our second episode ever was with [Varun Mohan of Codeium](https://www.latent.space/p/varun-mohan); they had 10,000 users at the time. In Feb 2024 the company raised $65M and is now one of the largest cos in the AI dev tooling space with over 300,000 users.
 
 Covering promising people and companies before they blow up will build 1) a lot of goodwill with the guest, as you were an early believer, and didn't just invite them because they are popular 2) a reputation with your audience as the place where interesting new tools are discovered.
 
 A lot of the interest in Latent Space has been from people valuing us as a "bullshit detector". They can trust that most of our guests are serious people with real products.
 
-# **Interview the famous people too!**
+## **Interview the famous people too!**
 
 Our first breakout episode was having[ George Hotz](https://www.latent.space/p/geohot) on the podcast. I sent George a cold email and he agreed to come on. In the studio he shared this: "I get a lot of people inviting me to podcasts, and to decide I listen to one episode and if I learn something new in the first 5 minutes of listening, I accept.". (George has only been on ours and Lex Fridman's pod in the past year to my knowledge)
 
@@ -41,23 +41,24 @@ The best guests will only come on if they think they'll get asked good questions
 You might also have some of them as fans already. I also cold emailed Chris Lattner about coming on, and he responded saying he had listened to the show before and was a fan! Those are some of the most rewarding moments.
 
 
-# **In-person recording > Remote**
+## **In-person recording > Remote**
 
 We have done 55 episodes of Latent Space so far, and only a handful of them were done remotely. The rest was either at our studio in San Francisco or with our portable mics. We have a pretty strict in-person policy for guests. 
 
 There are a few reasons why:
 
 * Breaking the ice in person is much easier than online. We don’t do any prep calls, so we’re often meeting our guests for the first time in the studio. Much easier to build good vibes. If they are nervous / closed off, it won’t be very entertaining. 
-* Online it’s really hard to “talk over each other” so to speak as voices get all muddled. This leads to very linear and robotic conversations where each person has to wait for the other to finish before jumping in. In the studio it’s much more free flowing and you can easily see the body language of someone wanting to chime in.
 * It feels a lot less transactional. We had lunch with some of our guests, shared swag, talked about archery hunting, or gave them a ride home. It’s a great way to build a relationship that goes beyond the podcast. 
+* Online it’s really hard to “talk over each other” so to speak as voices get all muddled. This leads to very linear and robotic conversations where each person has to wait for the other to finish before jumping in. In the studio it’s much more free flowing and you can easily see the body language of someone wanting to chime in.
+
+![George Hotz in the studio](/images/george.jpg)
+_Hard to express how confused you are by PyTorch class definitions through a webcam_
 
 For the studio, we first rented [StudioPod](https://studiopodmedia.com/) in the Mission, but eventually just built our own at the [Newton](https://twitter.com/newtonsf_). The setup for 4 mics is ~$5-6k. It’s been nice to have a shared table where people can “lean in” rather than sitting away on different couches (another good suggestion / insight that swyx had).
 
-![Chris Lattner in the studio](/images/chris.jpg)
-
 ![New studio at Newton](/images/new-studio.jpg)
 
-# **Create "thumbnails" of content**
+## **Create "thumbnails" of content**
 
 Just like with everything else, podcasts have a funnel. You can think of 4 stages of it: promotion tweets -> Substack post -> audio skimming -> full episode listen.
 
@@ -70,7 +71,7 @@ Not everyone has 1 hour to listen to an episode, but you want to deliver as much
 
 Many people will find value in it from just the 5 minutes version. You are able to grow an audience and fan base much more quickly than just hoping people will invest 1-3 hours to check out a few of your episodes. It also makes it easier for people to catchup on past episodes.
 
-# **Trust your gut on what isn’t working**
+## **Trust your gut on what isn’t working**
 
 There have been a bunch of things that we have changed over our first year. None of them had clear “metrics”, but we just felt they weren’t working. This was our first set:
 
@@ -92,7 +93,7 @@ We used this most of the year actually, and it got some good responses, but the 
 
 We now don’t have a lightning round at all, and instead do a “zoom out” and just ask the guest about personal anecdotes, go over their best tweets, talk about some personal interests, etc. That has been a lot more fun to record, so we think it’s likely more fun to hear as well.
 
-# **Listen to your listeners**
+## **Listen to your listeners**
 
 We’ve been lucky to have a very strong Latent Space community; we have ~3,000 people in our Discord, and a lot of Twitter activity. We also ran an end of year survey to gather feedback and ideas. It’s important to stay in touch with those folks.
 
@@ -100,21 +101,35 @@ For example, people wanted to hear more from us, not just our guests. We now sta
 
 The other thing is just staying on top of Twitter; there are a lot of comments that don’t mention you directly. It’s also good to collect these so that future guests have “social proof” that it’s worth spending time to come to the studio. Some of our favorites:
 
-*“Great episode, good technical discussion on LLM pretraining 👍” - [Andrej Karpathy](https://twitter.com/karpathy/status/1660824101412548609)
+_“Great episode, good technical discussion on LLM pretraining 👍” - [Andrej Karpathy](https://twitter.com/karpathy/status/1660824101412548609)_
 
-“This was a wonderful chat w Alessio and @swyx - diving much deeper into the AI infra + compiler + language + implementation details of the Modular AI Engine than ever before.” - [Chris Lattner](https://x.com/clattner_llvm/status/1702378998268043735?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+_“This was a wonderful chat w Alessio and @swyx - diving much deeper into the AI infra + compiler + language + implementation details of the Modular AI Engine than ever before.” - [Chris Lattner](https://x.com/clattner_llvm/status/1702378998268043735?s=46&t=90xQ8sGy63D2OtiaoGJuww)_
 
-“A good intro to the tiny corp for people who want to come work here.” - [George Hotz](https://twitter.com/realGeorgeHotz/status/1671207867045806080) (+ [Soumith Chintala](https://twitter.com/swyx/status/1671274223384547328))
+_“A good intro to the tiny corp for people who want to come work here.” - [George Hotz](https://twitter.com/realGeorgeHotz/status/1671207867045806080) (+ [Soumith Chintala](https://twitter.com/swyx/status/1671274223384547328))_
 
-“Your pods are a legitimate highlight of life for me. They’re amazing.” - [Mckay Wrigley](https://twitter.com/mckaywrigley/status/1691864273059004590?s=20)
+_“Your pods are a legitimate highlight of life for me. They’re amazing.” - [Mckay Wrigley](https://twitter.com/mckaywrigley/status/1691864273059004590?s=20)_
 
-“I was driving, laughed so hard I almost had to pull over.” - [Gene Kim](https://twitter.com/RealGeneKim/status/1678841773794230275?s=20)
+_“I was driving, laughed so hard I almost had to pull over.” - [Gene Kim](https://twitter.com/RealGeneKim/status/1678841773794230275?s=20)_
 
-“Best introduction to LLM benchmarks…It really shows that you always do your homework deeply before addressing any topic, which provides a lot of trust to your listeners. Thank you for that!” — [Samuel Path](https://twitter.com/smlpth/status/1750593594971275332)
+_“Best introduction to LLM benchmarks…It really shows that you always do your homework deeply before addressing any topic, which provides a lot of trust to your listeners. Thank you for that!” — [Samuel Path](https://twitter.com/smlpth/status/1750593594971275332)_
 
-“I listen to many podcasts. This has been one of the most interesting conversations I've heard on language models.” - [Ben Dickson](https://twitter.com/bendee983/status/1717512508838466031)
-*
+_“I listen to many podcasts. This has been one of the most interesting conversations I've heard on language models.” - [Ben Dickson](https://twitter.com/bendee983/status/1717512508838466031)_
 
-# **Find a good partner**
+## **Find a good partner**
 
-Last but not least (probably #1 actually!), working with swyx on this has been a lot of fun and a huge learning experience. Having a partner to push you to be better and bounce ideas off of is super helpful when trying to create something new from scratch. It's also a good forcing function to make sure you really see it through. Luckily both of us have very similar work ethics and working styles 🙏 Excited for another year of it!
+Last but not least (probably #1 actually!), working with swyx on this has been a lot of fun and a huge learning experience. Having a partner to push you to be better and bounce ideas off of is super helpful when trying to create something new from scratch. It's also a good forcing function to make sure you really see it through. Luckily both of us have very similar work ethics and working styles 🙏 Excited for another year of it. Enjoy some of my favorite pics of the year.
+
+![Logan Kilpatrick outside the studio](/images/logan.jpg)
+_Logan Kilpatrick from OpenAI after our first ever recording!_
+
+![Chris Lattner in the studio](/images/chris.jpg)
+_Laughing with Chris Lattner in the studio while the AC wasn't working in one of the hottest days of the year in SF_
+
+![Dylan Patel in the studio](/images/dylan.jpg)
+_Our 3-hours-notice makeshift studio with Dylan Patel from SemiAnalysis_
+
+![In NYC with Linus Lee](/images/linus-lee.jpg)
+_Our first "out of office" episode with Linus from Notion_
+
+![In NYC with Linus Lee](/images/wes.jpg)
+_Our first live audience show at Reactathon with Wes Bos as special guest_
